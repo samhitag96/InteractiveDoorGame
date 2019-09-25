@@ -3,3 +3,22 @@
     font-family:  Verdana, Tahoma, sans-serif;
 
 }
+#leftdoor{
+	float: left;
+	padding: 1em;
+	margin-left: 25%;
+	
+}
+#rightdoor{
+	float:right;
+	padding: 1em;
+	margin-right: 25%;
+}
+#title
+{
+	color: white;
+	font-size: 24pt;
+	text-align: center;
+	font-style: italic;
+	
+}
