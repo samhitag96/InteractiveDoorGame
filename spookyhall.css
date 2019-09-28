@@ -1,0 +1,76 @@
+*{
+    font-family:  Verdana, Tahoma, sans-serif;
+	font-size: 10pt;
+}
+body{
+ background-image: url("spookyhall.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+.holder{        
+    width:100%;
+    position:absolute;
+    left:0;
+    bottom:10px;
+    display:block;  
+}
+.popup{
+    width:600px;
+    margin:0 auto;
+    border-radius: 7px;
+    background:#6b6a63;
+    margin:30px auto 0;
+    padding:6px;
+	
+	
+}
+
+.content{
+    background:#fff;
+    padding: 30px;
+}
+#storyline{
+	font-style: italic;
+	font-family: times new roman;
+	font-size: 10pt;
+}
+#character{
+	font-weight: bold;
+	font-family: times new roman;
+	font-size: 10pt;
+
+}
+#dialogue{
+	font-size: 8pt;
+	font-family: times new roman;
+	padding: 2px;
+	width: 300px;
+	margin-left: 25%;
+}
+#button{
+	 width: 6em;
+    background: #ffe;
+    border-radius: 5px;
+	float: right;
+
+}
+a {
+    display: block;
+    width: 100%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover {
+    color: red;
+    background: #eff;
+}
+#move{
+	
+	width: 6em;
+	overflow: auto;
+	float: right;
+	padding: 5px;
+	font-style:italic;
+}
