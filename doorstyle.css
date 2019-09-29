@@ -49,6 +49,8 @@ display: block;
 margin-left: 20%;
 margin-right: auto;
 padding: 20%;
+transition-duration: 1s;
+transform: scale(3);
 }
 #close {
 	display: block;
