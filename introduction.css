@@ -32,7 +32,7 @@ body{
 #storyline{
 	font-style: italic;
 	font-family: times new roman;
-	font-size: 10pt;
+	font-size: 13pt;
 }
 #character{
 	font-weight: bold;
@@ -73,4 +73,5 @@ a:hover {
 	float: right;
 	padding: 2px;
 	margin-right: 14%;
+	font-style: italic;
 }
