@@ -25,11 +25,13 @@
 }
 
 #joker {
+	position: absolute;
 	transition-duration: 1s;
 	transform: scale(3);
 }
 
 #similey {
+	position: absolute;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -45,6 +47,7 @@
 
 } 
 .ghost{
+position: absolute;
 display: block;
 margin-left: 20%;
 margin-right: auto;
